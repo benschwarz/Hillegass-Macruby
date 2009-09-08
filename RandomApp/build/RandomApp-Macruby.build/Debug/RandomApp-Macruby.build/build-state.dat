@@ -1,0 +1,185 @@
+TRandomApp-Macruby
+v7
+r0
+t274099992.637254
+cCheck dependencies
+cProcessInfoPlistFile /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Info.plist Info.plist
+cStripNIB /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/RandomApp-Macruby.app/Contents/Resources/rb_main.rb rb_main.rb
+cCpResource build/Debug/RandomApp-Macruby.app/Contents/Resources/Random.rb Random.rb
+cCompileC build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby normal x86_64
+cTouch /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004A9D1D53000000000000005F
+t1251810643
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004AA601940000000001A6E848
+t1252393364
+s27715656
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/InfoPlist.strings
+c000000004AA6307700000000000000CE
+t1252405367
+s206
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib
+c000000004AA6359E0000000000000088
+t1252406686
+s136
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/Random.rb
+c000000004AA637920000000000000126
+t1252407186
+s294
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app
+t1252407187
+s102
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Info.plist
+t1252406690
+s799
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby
+t1252406691
+s10176
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/PkgInfo
+t1252406690
+s8
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1252406690
+s206
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj/MainMenu.nib
+t1252406690
+s7999
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/Random.rb
+t1252407187
+s294
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/rb_main.rb
+t1252406690
+s545
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/RandomApp-Macruby.LinkFileList
+c000000004AA635A2000000000000008F
+t1252406690
+s143
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o
+t1252406691
+s11592
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m
+c000000004AA630770000000000000104
+t1252405367
+s260
+i<MacRuby/MacRuby.h>
+
+N/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/rb_main.rb
+c000000004AA630770000000000000221
+t1252405367
+s545
+
+NInfo.plist
+c000000004AA63077000000000000034E
+t1252405367
+s846
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies274099992#274099992#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s274099490.484210
+e274099491.153619
+r1
+xCompileC
+xbuild/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o
+x/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m274099490#274099491#0(0"0(0#0#60"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m4300882208#1130"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/RandomApp-Macruby.hmap -F/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug -I/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/include -I/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/DerivedSources/x86_64 -I/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/DerivedSources -c /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m -o /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s274099490.363890
+e274099490.466684
+r1
+xCopyStringsFile
+x/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings274099490#274099490#0(0"0(0#0#85"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/InfoPlist.strings4300882208#406"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/RandomApp-Macruby.app/Contents/Resources/Random.rb Random.rb
+s274099987.325125
+e274099987.334875
+r1
+xCpResource
+xbuild/Debug/RandomApp-Macruby.app/Contents/Resources/Random.rb
+xRandom.rb
+lSLF07#2@14"Copy Random.rb274099987#274099987#0(0"0(0#0#63"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/Random.rb4300882208#380"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/Random.rb /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources0#
+
+CCpResource build/Debug/RandomApp-Macruby.app/Contents/Resources/rb_main.rb rb_main.rb
+s274099490.459817
+e274099490.483932
+r1
+xCpResource
+xbuild/Debug/RandomApp-Macruby.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb274099490#274099490#0(0"0(0#0#64"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/rb_main.rb4300882208#381"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/rb_main.rb /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources0#
+
+CLd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby normal x86_64
+s274099491.153784
+e274099491.521674
+r1
+xLd
+x/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby
+xnormal
+xx86_64
+lSLF07#2@125"Link /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby274099491#274099491#0(0"0(0#0#0"4300882208#686"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug -F/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug -filelist /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/RandomApp-Macruby.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby0#
+
+CProcessInfoPlistFile /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Info.plist Info.plist
+s274099490.347583
+e274099490.362855
+r1
+xProcessInfoPlistFile
+x/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist274099490#274099490#0(0"0(0#0#64"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/Info.plist34058893096452208#367"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Info.plist0#
+
+CStripNIB /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib
+s274099490.362959
+e274099490.459736
+r1
+xStripNIB
+x/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib274099490#274099490#0(0"0(0#0#80"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib4300882208#350"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    /Developer/usr/bin/ibtool --strip /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib0#
+
+CTouch /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app
+s274099987.335088
+e274099987.338688
+r1
+xTouch
+x/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app
+lSLF07#2@93"Touch /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app274099987#274099987#0(0"0(0#0#0"4300882208#171"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    /usr/bin/touch -c /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app0#
+
