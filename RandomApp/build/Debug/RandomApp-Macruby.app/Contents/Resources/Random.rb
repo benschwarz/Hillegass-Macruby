@@ -12,7 +12,6 @@ class Random
 	
 	private
 	def awakeFromNib
-		time = Time.now.to_s
-		@textField.setObjectValue time
+		@textField.setObjectValue Time.now.to_s
 	end
 end

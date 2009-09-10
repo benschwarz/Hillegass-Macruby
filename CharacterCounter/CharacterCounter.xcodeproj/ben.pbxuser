@@ -2,14 +2,14 @@
 {
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
-		activeExecutable = B5FAE36C105667F700428B07 /* RandomApp-Macruby */;
-		activeTarget = 8D1107260486CEB800E47090 /* RandomApp-Macruby */;
+		activeExecutable = B586FD8A1058A48B00197EDA /* CharacterCounter */;
+		activeTarget = 8D1107260486CEB800E47090 /* CharacterCounter */;
 		addToTargets = (
-			8D1107260486CEB800E47090 /* RandomApp-Macruby */,
+			8D1107260486CEB800E47090 /* CharacterCounter */,
 		);
-		codeSenseManager = B5FAE3801056680500428B07 /* Code sense */;
+		codeSenseManager = B586FD9E1058A48F00197EDA /* Code sense */;
 		executables = (
-			B5FAE36C105667F700428B07 /* RandomApp-Macruby */,
+			B586FD8A1058A48B00197EDA /* CharacterCounter */,
 		);
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
@@ -17,9 +17,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					350,
+					341,
 					20,
-					48,
+					48.16259765625,
 					43,
 					43,
 					20,
@@ -34,38 +34,20 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 274101181;
-			PBXWorkspaceStateSaveDate = 274101181;
+			PBXPerProjectTemplateStateSaveDate = 274244747;
+			PBXWorkspaceStateSaveDate = 274244747;
 		};
-		perUserProjectItems = {
-			B5B3659A105673D800866F30 /* PBXBookmark */ = B5B3659A105673D800866F30 /* PBXBookmark */;
-			B5B365AA1056747F00866F30 /* PBXTextBookmark */ = B5B365AA1056747F00866F30 /* PBXTextBookmark */;
-		};
-		sourceControlManager = B5FAE37F1056680500428B07 /* Source Control */;
+		sourceControlManager = B586FD9D1058A48F00197EDA /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	8D1107260486CEB800E47090 /* RandomApp-Macruby */ = {
+	8D1107260486CEB800E47090 /* CharacterCounter */ = {
 		activeExec = 0;
 		executables = (
-			B5FAE36C105667F700428B07 /* RandomApp-Macruby */,
+			B586FD8A1058A48B00197EDA /* CharacterCounter */,
 		);
 	};
-	B5B3659A105673D800866F30 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = B5FAE3841056690B00428B07 /* Random.rb */;
-	};
-	B5B365AA1056747F00866F30 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = B5FAE3841056690B00428B07 /* Random.rb */;
-		name = "Random.rb: 17";
-		rLen = 0;
-		rLoc = 280;
-		rType = 0;
-		vrLen = 280;
-		vrLoc = 0;
-	};
-	B5FAE36C105667F700428B07 /* RandomApp-Macruby */ = {
+	B586FD8A1058A48B00197EDA /* CharacterCounter */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
 		);
@@ -81,21 +63,18 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
-		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
 		executableSystemSymbolLevel = 0;
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
-		name = "RandomApp-Macruby";
-		savedGlobals = {
-		};
+		name = CharacterCounter;
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
 	};
-	B5FAE37F1056680500428B07 /* Source Control */ = {
+	B586FD9D1058A48F00197EDA /* Source Control */ = {
 		isa = PBXSourceControlManager;
 		fallbackIsa = XCSourceControlManager;
 		isSCMEnabled = 0;
@@ -105,15 +84,8 @@
 			};
 		};
 	};
-	B5FAE3801056680500428B07 /* Code sense */ = {
+	B586FD9E1058A48F00197EDA /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	B5FAE3841056690B00428B07 /* Random.rb */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {528, 290}}";
-			sepNavSelRange = "{280, 0}";
-			sepNavVisRange = "{0, 280}";
-		};
 	};
 }
