@@ -1,7 +1,7 @@
 TCharacterCounter
 v7
 r0
-t274245204.032652
+t274365079.492276
 cCheck dependencies
 cProcessInfoPlistFile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Info.plist Info.plist
 cStripNIB /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/English.lproj/MainMenu.nib
@@ -18,14 +18,14 @@ t1246341604
 s238
 
 N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
-c000000004A9D1D53000000000000005F
-t1251810643
+c000000004AA84A2E000000000000005F
+t1252543022
 s95
 
 N/Library/Frameworks/MacRuby.framework/MacRuby
-c000000004AA8335A0000000001A6DBE0
-t1252537178
-s27712480
+c000000004AAA2B860000000001A6FBC8
+t1252666246
+s27720648
 
 N/System/Library/Frameworks/Cocoa.framework/Cocoa
 c000000004A1F2D63000000000000A5E0
@@ -43,9 +43,9 @@ t1252552329
 s136
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/application_controller.rb
-c000000004AA86ED10000000000000107
-t1252552401
-s263
+c000000004AA86EEB00000000000000DA
+t1252552427
+s218
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/CharacterCounter.build/Debug/CharacterCounter.build/Objects-normal/x86_64/CharacterCounter.LinkFileList
 c000000004AA86E8C000000000000009E
@@ -57,7 +57,7 @@ t1252552333
 s11632
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app
-t1252552404
+t1252672279
 s102
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Info.plist
@@ -65,7 +65,7 @@ t1252552332
 s796
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/MacOS/CharacterCounter
-t1252552333
+t1252672279
 s10208
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/PkgInfo
@@ -81,8 +81,8 @@ t1252552332
 s22201
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Resources/application_controller.rb
-t1252552404
-s263
+t1252633557
+s218
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Resources/rb_main.rb
 t1252552332
@@ -106,7 +106,7 @@ s845
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies274245204#274245204#0(0"0(0#1#0"4300882208#0"0#
+lSLF07#2@18"Check dependencies274365079#274365079#0(0"0(0#1#0"4300882208#0"0#
 
 CCompileC build/CharacterCounter.build/Debug/CharacterCounter.build/Objects-normal/x86_64/main.o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s274245132.227724
@@ -131,13 +131,13 @@ xEnglish.lproj/InfoPlist.strings
 lSLF07#2@36"Copy English.lproj/InfoPlist.strings274245132#274245132#0(0"0(0#0#102"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/English.lproj/InfoPlist.strings4300882208#439"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Resources/English.lproj0#
 
 CCpResource build/Debug/CharacterCounter.app/Contents/Resources/application_controller.rb application_controller.rb
-s274245204.016910
-e274245204.029735
+s274326357.042141
+e274326357.089960
 r1
 xCpResource
 xbuild/Debug/CharacterCounter.app/Contents/Resources/application_controller.rb
 xapplication_controller.rb
-lSLF07#2@30"Copy application_controller.rb274245204#274245204#0(0"0(0#0#96"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/application_controller.rb4300882208#446"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/application_controller.rb /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Resources0#
+lSLF07#2@30"Copy application_controller.rb274326357#274326357#0(0"0(0#0#96"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/application_controller.rb32370056119910512#446"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/application_controller.rb /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Resources0#
 
 CCpResource build/Debug/CharacterCounter.app/Contents/Resources/rb_main.rb rb_main.rb
 s274245132.172856
@@ -149,14 +149,14 @@ xrb_main.rb
 lSLF07#2@15"Copy rb_main.rb274245132#274245132#0(0"0(0#0#81"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/rb_main.rb4300882208#431"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/rb_main.rb /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Resources0#
 
 CLd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/MacOS/CharacterCounter normal x86_64
-s274245133.079547
-e274245133.165632
+s274365079.449627
+e274365079.489750
 r1
 xLd
 x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/MacOS/CharacterCounter
 xnormal
 xx86_64
-lSLF07#2@140"Link /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/MacOS/CharacterCounter274245133#274245133#0(0"0(0#0#0"4300882208#766"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug -F/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug -filelist /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/CharacterCounter.build/Debug/CharacterCounter.build/Objects-normal/x86_64/CharacterCounter.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/MacOS/CharacterCounter0#
+lSLF07#2@140"Link /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/MacOS/CharacterCounter274365079#274365079#0(0"0(0#0#0"4300882208#766"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug -F/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug -filelist /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/CharacterCounter.build/Debug/CharacterCounter.build/Objects-normal/x86_64/CharacterCounter.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/MacOS/CharacterCounter0#
 
 CProcessInfoPlistFile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Info.plist Info.plist
 s274245132.080825
@@ -176,10 +176,10 @@ x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/English.
 lSLF07#2@35"StripNIB English.lproj/MainMenu.nib274245132#274245132#0(0"0(0#0#97"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/English.lproj/MainMenu.nib4300882208#400"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    /Developer/usr/bin/ibtool --strip /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/English.lproj/MainMenu.nib0#
 
 CTouch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app
-s274245204.029964
-e274245204.032621
+s274365079.489849
+e274365079.492250
 r1
 xTouch
 x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app
-lSLF07#2@109"Touch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app274245204#274245204#0(0"0(0#0#0"4300882208#204"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    /usr/bin/touch -c /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app0#
+lSLF07#2@109"Touch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app274365079#274365079#0(0"0(0#0#0"4300882208#204"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter    /usr/bin/touch -c /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/CharacterCounter/build/Debug/CharacterCounter.app0#
 

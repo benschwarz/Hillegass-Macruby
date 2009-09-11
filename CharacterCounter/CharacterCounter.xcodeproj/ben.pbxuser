@@ -17,9 +17,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					530,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -34,8 +34,13 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 274244747;
-			PBXWorkspaceStateSaveDate = 274244747;
+			PBXPerProjectTemplateStateSaveDate = 274365075;
+			PBXWorkspaceStateSaveDate = 274365075;
+		};
+		perUserProjectItems = {
+			B54FFBB61059E40A003064B0 = B54FFBB61059E40A003064B0 /* PBXTextBookmark */;
+			B57D0409105A7A9800095FAC /* PBXTextBookmark */ = B57D0409105A7A9800095FAC /* PBXTextBookmark */;
+			B586FDB61058A77200197EDA = B586FDB61058A77200197EDA /* PBXTextBookmark */;
 		};
 		sourceControlManager = B586FD9D1058A48F00197EDA /* Source Control */;
 		userBuildSettings = {
@@ -46,6 +51,26 @@
 		executables = (
 			B586FD8A1058A48B00197EDA /* CharacterCounter */,
 		);
+	};
+	B54FFBB61059E40A003064B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B586FDA11058A52C00197EDA /* application_controller.rb */;
+		name = "application_controller.rb: 8";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
+	};
+	B57D0409105A7A9800095FAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B586FDA11058A52C00197EDA /* application_controller.rb */;
+		name = "application_controller.rb: 8";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
 	};
 	B586FD8A1058A48B00197EDA /* CharacterCounter */ = {
 		isa = PBXExecutable;
@@ -63,6 +88,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -70,6 +96,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = CharacterCounter;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -87,5 +115,22 @@
 	B586FD9E1058A48F00197EDA /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	B586FDA11058A52C00197EDA /* application_controller.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {708, 293}}";
+			sepNavSelRange = "{218, 0}";
+			sepNavVisRange = "{0, 218}";
+		};
+	};
+	B586FDB61058A77200197EDA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B586FDA11058A52C00197EDA /* application_controller.rb */;
+		name = "application_controller.rb: 8";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
 	};
 }

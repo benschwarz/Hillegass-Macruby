@@ -1,7 +1,7 @@
 TRandomApp-Macruby
 v7
 r0
-t274101207.468791
+t274363493.392034
 cCheck dependencies
 cProcessInfoPlistFile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/Info.plist Info.plist
 cStripNIB /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/English.lproj/MainMenu.nib
@@ -18,14 +18,14 @@ t1246341604
 s238
 
 N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
-c000000004A9D1D53000000000000005F
-t1251810643
+c000000004AA84A2E000000000000005F
+t1252543022
 s95
 
 N/Library/Frameworks/MacRuby.framework/MacRuby
-c000000004AA601940000000001A6E848
-t1252393364
-s27715656
+c000000004AAA2B860000000001A6FBC8
+t1252666246
+s27720648
 
 N/System/Library/Frameworks/Cocoa.framework/Cocoa
 c000000004A1F2D63000000000000A5E0
@@ -48,7 +48,7 @@ t1252408406
 s280
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app
-t1252408407
+t1252670693
 s102
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/Info.plist
@@ -56,8 +56,8 @@ t1252406690
 s799
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby
-t1252408051
-s10184
+t1252670693
+s10192
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/PkgInfo
 t1252406690
@@ -85,8 +85,8 @@ t1252408051
 s153
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o
-t1252406691
-s11592
+t1252670693
+s11616
 
 N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/main.m
 c000000004AA630770000000000000104
@@ -173,10 +173,20 @@ s846
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies274101207#274101207#0(0"0(0#1#0"4300882208#0"0#
+lSLF07#2@18"Check dependencies274363492#274363492#0(0"0(0#1#0"4300882208#0"0#
 
 CCompileC build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-r0
+s274363492.769301
+e274363493.350042
+r1
+xCompileC
+xbuild/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o
+x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/main.m274363492#274363493#0(0"0(0#0#70"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/main.m4300882208#1210"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/RandomApp-Macruby.hmap -F/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/include -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/DerivedSources/x86_64 -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/DerivedSources -c /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/main.m -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o0#
 
 CCompileC build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/main.o /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s274099490.484210
@@ -222,14 +232,14 @@ xrb_main.rb
 lSLF07#2@15"Copy rb_main.rb274099490#274099490#0(0"0(0#0#64"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/rb_main.rb4300882208#381"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/rb_main.rb /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources0#
 
 CLd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby normal x86_64
-s274100851.409486
-e274100851.749074
+s274363493.350146
+e274363493.389515
 r1
 xLd
 x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby
 xnormal
 xx86_64
-lSLF07#2@135"Link /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby274100851#274100851#0(0"0(0#0#0"31525678432190572#736"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug -F/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug -filelist /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/RandomApp-Macruby.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby0#
+lSLF07#2@135"Link /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby274363493#274363493#0(0"0(0#0#0"4300882208#736"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug -F/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug -filelist /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/RandomApp-Macruby.build/Debug/RandomApp-Macruby.build/Objects-normal/x86_64/RandomApp-Macruby.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby0#
 
 CLd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/MacOS/RandomApp-Macruby normal x86_64
 s274099491.153784
@@ -265,12 +275,12 @@ x/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.ni
 lSLF07#2@35"StripNIB English.lproj/MainMenu.nib274099490#274099490#0(0"0(0#0#80"/Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib4300882208#350"    cd /Users/ben/Documents/Projects/xcode/RandomApp-Macruby    /Developer/usr/bin/ibtool --strip /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/English.lproj/MainMenu.nib0#
 
 CTouch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app
-s274101207.464559
-e274101207.468754
+s274363493.389663
+e274363493.392008
 r1
 xTouch
 x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app
-lSLF07#2@103"Touch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app274101207#274101207#0(0"0(0#0#0"4300882208#191"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp    /usr/bin/touch -c /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app0#
+lSLF07#2@103"Touch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app274363493#274363493#0(0"0(0#0#0"4300882208#191"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp    /usr/bin/touch -c /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/RandomApp/build/Debug/RandomApp-Macruby.app0#
 
 CTouch /Users/ben/Documents/Projects/xcode/RandomApp-Macruby/build/Debug/RandomApp-Macruby.app
 s274099987.335088

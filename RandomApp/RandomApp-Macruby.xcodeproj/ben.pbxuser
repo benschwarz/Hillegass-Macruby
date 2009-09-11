@@ -34,15 +34,23 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 274101181;
-			PBXWorkspaceStateSaveDate = 274101181;
+			PBXPerProjectTemplateStateSaveDate = 274363379;
+			PBXWorkspaceStateSaveDate = 274363379;
 		};
 		perUserProjectItems = {
-			B5B3659A105673D800866F30 /* PBXBookmark */ = B5B3659A105673D800866F30 /* PBXBookmark */;
-			B5B365AA1056747F00866F30 /* PBXTextBookmark */ = B5B365AA1056747F00866F30 /* PBXTextBookmark */;
+			B57D0386105A763200095FAC /* PBXTextBookmark */ = B57D0386105A763200095FAC /* PBXTextBookmark */;
+			B57D0387105A763200095FAC /* PBXTextBookmark */ = B57D0387105A763200095FAC /* PBXTextBookmark */;
+			B57D0388105A763200095FAC /* PBXTextBookmark */ = B57D0388105A763200095FAC /* PBXTextBookmark */;
 		};
 		sourceControlManager = B5FAE37F1056680500428B07 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	4DE339F60D74FCDD00ADB6EE /* rb_main.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {537, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 486}";
 		};
 	};
 	8D1107260486CEB800E47090 /* RandomApp-Macruby */ = {
@@ -51,16 +59,32 @@
 			B5FAE36C105667F700428B07 /* RandomApp-Macruby */,
 		);
 	};
-	B5B3659A105673D800866F30 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = B5FAE3841056690B00428B07 /* Random.rb */;
+	B57D0386105A763200095FAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DE339F60D74FCDD00ADB6EE /* rb_main.rb */;
+		name = "rb_main.rb: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
 	};
-	B5B365AA1056747F00866F30 /* PBXTextBookmark */ = {
+	B57D0387105A763200095FAC /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = B5FAE3841056690B00428B07 /* Random.rb */;
-		name = "Random.rb: 17";
+		name = "Random.rb: 11";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	B57D0388105A763200095FAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5FAE3841056690B00428B07 /* Random.rb */;
+		name = "Random.rb: 9";
+		rLen = 0;
+		rLoc = 148;
 		rType = 0;
 		vrLen = 280;
 		vrLoc = 0;
@@ -111,8 +135,8 @@
 	};
 	B5FAE3841056690B00428B07 /* Random.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {528, 290}}";
-			sepNavSelRange = "{280, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {528, 247}}";
+			sepNavSelRange = "{148, 0}";
 			sepNavVisRange = "{0, 280}";
 		};
 	};

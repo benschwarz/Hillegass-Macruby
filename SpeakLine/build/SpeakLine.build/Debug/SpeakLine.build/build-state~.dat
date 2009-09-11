@@ -1,0 +1,185 @@
+TSpeakLine
+v7
+r0
+t274362395.397167
+cCheck dependencies
+cProcessInfoPlistFile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist Info.plist
+cStripNIB /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/SpeakLine.app/Contents/Resources/rb_main.rb rb_main.rb
+cCpResource build/Debug/SpeakLine.app/Contents/Resources/application_controller.rb application_controller.rb
+cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine normal x86_64
+cTouch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004A7A7470000000000000005F
+t1249539184
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004AAA2B860000000001A6FBC8
+t1252666246
+s27720648
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/InfoPlist.strings
+c000000004AA82D3800000000000000CE
+t1252535608
+s206
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/MainMenu.nib
+c000000004AAA379C0000000000000088
+t1252669340
+s136
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/application_controller.rb
+c000000004AAA389700000000000000B5
+t1252669591
+s181
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app
+t1252669595
+s102
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist
+t1252669594
+s775
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine
+t1252669595
+s10176
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/PkgInfo
+t1252669594
+s8
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1252669594
+s206
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib
+t1252669594
+s22015
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/application_controller.rb
+t1252669594
+s181
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/rb_main.rb
+t1252669594
+s538
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLine.LinkFileList
+c000000004AAA389A0000000000000089
+t1252669594
+s137
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o
+t1252669595
+s11616
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/main.m
+c000000004AA82D3800000000000000FD
+t1252535608
+s253
+i<MacRuby/MacRuby.h>
+
+N/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/rb_main.rb
+c000000004AA82D38000000000000021A
+t1252535608
+s538
+
+NInfo.plist
+c000000004AA82D380000000000000346
+t1252535608
+s838
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies274362394#274362394#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s274362394.806450
+e274362395.357314
+r1
+xCompileC
+xbuild/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o
+x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/main.m274362394#274362395#0(0"0(0#0#70"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/main.m4300882208#1138"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine.hmap -F/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/include -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -c /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/main.m -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s274362394.711483
+e274362394.736418
+r1
+xCopyStringsFile
+x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings274362394#274362394#0(0"0(0#0#95"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/InfoPlist.strings4300882208#418"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/SpeakLine.app/Contents/Resources/application_controller.rb application_controller.rb
+s274362394.737076
+e274362394.744502
+r1
+xCpResource
+xbuild/Debug/SpeakLine.app/Contents/Resources/application_controller.rb
+xapplication_controller.rb
+lSLF07#2@30"Copy application_controller.rb274362394#274362394#0(0"0(0#0#89"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/application_controller.rb4300882208#418"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/application_controller.rb /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources0#
+
+CCpResource build/Debug/SpeakLine.app/Contents/Resources/rb_main.rb rb_main.rb
+s274362394.736509
+e274362394.740922
+r1
+xCpResource
+xbuild/Debug/SpeakLine.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb274362394#274362394#0(0"0(0#0#74"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/rb_main.rb4300882208#403"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/rb_main.rb /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources0#
+
+CLd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine normal x86_64
+s274362395.357405
+e274362395.394474
+r1
+xLd
+x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine
+xnormal
+xx86_64
+lSLF07#2@119"Link /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine274362395#274362395#0(0"0(0#0#0"4300882208#696"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug -F/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug -filelist /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLine.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine0#
+
+CProcessInfoPlistFile /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist Info.plist
+s274362394.706465
+e274362394.710803
+r1
+xProcessInfoPlistFile
+x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist274362394#274362394#0(0"0(0#0#74"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/Info.plist4300882208#381"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist0#
+
+CStripNIB /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/MainMenu.nib
+s274362394.710870
+e274362394.806112
+r1
+xStripNIB
+x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib274362394#274362394#0(0"0(0#0#90"/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/MainMenu.nib4300882208#372"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    /Developer/usr/bin/ibtool --strip /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/English.lproj/MainMenu.nib0#
+
+CTouch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app
+s274362395.394570
+e274362395.397140
+r1
+xTouch
+x/Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app
+lSLF07#2@95"Touch /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app274362395#274362395#0(0"0(0#0#0"4300882208#183"    cd /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine    /usr/bin/touch -c /Users/ben/Documents/Projects/xcode/Hillegass-Macruby/SpeakLine/build/Debug/SpeakLine.app0#
+
